@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra0207&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra0207" /> </p>
 <p align="center">
 <a href="https://github.com/kushagra0207/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=kushagra0207&theme=dark"  width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=kushagra0207&theme=dark&locale=en"  width="100%">
 </a>
 </p>
 
