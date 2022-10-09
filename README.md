@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushagra Gupta</h1>
+<p align="center">
+  <a href="https://github.com/Kushagra0207/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Kushagra!;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=0357F7&vleft=true&size=22"></a>
+</p>
 <h3 align="center">I enjoy solving technical problems, developing new technologies, designing software applications for different platforms and also like to explore about new advancements. I Know Languages like Python, C and Java and have a knowledge of Data Structures And Algorithm also. I am keen interested in web development .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra0207&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra0207" /> </p>
