@@ -4,13 +4,12 @@
 </p>
 <h3 align="center">I enjoy solving technical problems, developing new technologies, designing software applications for different platforms and also like to explore about new advancements. I Know Languages like Python, C and Java and have a knowledge of Data Structures And Algorithm also. I am keen interested in web development .</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra0207&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra0207" /> </p>
 <p align="center">
-<a href="https://github.com/Ananya01Agrawal/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=kushagra0207&theme=dark&area=true&hide_border=true" width="100%">
+<a href="https://github.com/kushagra0207/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=kushagra0207&theme=dark&locale=en&layout=compact"  width="100%">
 </a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra0207&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra0207" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagra0207" alt="kushagra0207" /></a> </p>
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
