@@ -46,4 +46,5 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra0207&theme=dark" alt="kushagra0207" /></p>
   </div>
+  ![snake gif](https://github.com/Kushagra0207/Kushagra0207/blob/output/github-contribution-grid-snake.gif)
 
