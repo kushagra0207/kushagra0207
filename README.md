@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/Ananya01Agrawal/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=kushagra0207&theme=dark&locale=en&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=kushagra0207&theme=dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
 
