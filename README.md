@@ -43,14 +43,5 @@
   </tr>
 </table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra0207&theme=dark" alt="kushagra0207" /></p>
-  </div>
-  <!--END_SECTION:activity-->
-![snake gif] (https://github.com/Kushagra0207/Kushagra0207/blob/output/github-contribution-grid-snake.gif)
 
-
-<!-- <h6 align= "center">Show Some ❤ by giving ⭐ to my Reposiotries</h6>  -->
-
-<!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
