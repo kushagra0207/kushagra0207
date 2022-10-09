@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra0207&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra0207" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagra0207" alt="kushagra0207" /></a> </p>
+<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
 
 - 🔭 I’m currently working on **Web Developments Projects and competitive Programming..**
 
