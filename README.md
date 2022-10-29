@@ -42,6 +42,9 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushagra0207&show_icons=true&theme=dark&locale=en&layout=compact" alt="kushagra0207" /></td>
   </tr>
 </table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra0207&theme=tokyonight" />
+</p>
 
 
 
