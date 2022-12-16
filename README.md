@@ -13,7 +13,7 @@
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagra0207&theme=onedark" alt="kushagra0207" /></a> </p>
-<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
+<img align='right' src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg" width="280">
 
 - 🔭 I’m currently working on **Web Developments Projects and competitive Programming..**
 
